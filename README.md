@@ -3,8 +3,7 @@
 
 ## About me :mortar_board:
 I am a Computer Engineering student, currently studying in Vishwakarma Institute of Information Technology(VIIT), Pune. My interests are Software Development, Machine Learning & Data analytics.<br />
-Quick learner, Proactive, Problem Solver, Tech enthusiast
-
+Enthusiastic, Inquisitive, Team Player.
 
 ## What I know :computer:
 <code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -36,7 +35,7 @@ Quick learner, Proactive, Problem Solver, Tech enthusiast
 <p align="center">
   <a href="https://www.linkedin.com/in/ketaki-hadnurkar/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
   <a href="https://www.hackerrank.com/ketaki_hadnurkar"><img height="60" alt="twitter" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg"></a> 
-  <a href="https://www.codechef.com/users/ketaki_hadnurkar"><img height="60" alt="twitter" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"></a> 
+  <a href="https://www.codechef.com/users/ketaki_h"><img height="60" alt="twitter" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"></a> 
   <a href="https://www.instagram.com/ketaki_hadnurkar/"><img alt="instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
   <a href="mailto:ketaki.hadnurkar@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a> 
   
