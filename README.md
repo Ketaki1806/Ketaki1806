@@ -1,11 +1,11 @@
-<h1 align="center">Hey there! I'm Ketaki Hadnurkar </h1>
+<h1 align="center">Hey! I'm Ketaki Hadnurkar </h1>
 
 
-## About me :mortar_board:
+## About me
 I am a Computer Engineering student, currently studying in Vishwakarma Institute of Information Technology(VIIT), Pune. My interests are Software Development, Machine Learning & Data analytics.<br />
 Enthusiastic, Inquisitive, Team Player.
 
-## What I know :computer:
+## What I know
 <code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
@@ -30,7 +30,7 @@ Enthusiastic, Inquisitive, Team Player.
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Profiles </h3>
+<h3>Profiles </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ketaki-hadnurkar/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
