@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Ketaki Hadnurkar </h1>
+<h1 align="center">I'm Ketaki Hadnurkar </h1>
 
 
 ## About me
