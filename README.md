@@ -2,7 +2,7 @@
 
 
 ## About me
-I am a Computer Engineering student, currently studying in Vishwakarma Institute of Information Technology(VIIT), Pune. My interests are Software Development, Machine Learning & Data analytics.<br />
+Master's in Computer Science student at Saarland University, Germany. My interests are Software Development, Machine Learning & Data Analytics.<br />
 Enthusiastic, Inquisitive, Team Player.
 
 ## What I know
